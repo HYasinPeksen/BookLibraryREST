@@ -1,6 +1,6 @@
 # Book Library API
 
-This is and example of Book Library API written in Typescript. Uses Express, MongoDB on Node.js.
+This is an example of Book Library API written in Typescript. Uses Express, MongoDB on Node.js.
 
 ## How to make it work
 
